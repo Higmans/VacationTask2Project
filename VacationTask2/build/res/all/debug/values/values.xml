@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Lungo/AndroidStudioProjects/VacationTask2Project/VacationTask2/src/main/res/values/strings.xml -->
+    <string-array name="size_step">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Lungo/AndroidStudioProjects/VacationTask2Project/VacationTask2/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Lungo/AndroidStudioProjects/VacationTask2Project/VacationTask2/src/main/res/values/strings.xml -->
+    <string name="action_settings">Settings</string>
+    <string name="app_name">VacationTask2</string>
+    <string name="buttonMinus">-</string>
+    <string name="buttonPlus">+</string>
+    <string name="colorBlue">Синий</string>
+    <string name="colorGreen">Зеленый</string>
+    <string name="colorRed">Красный</string>
+    <string name="defaultResult">Найдено 0 совпадений</string>
+    <string name="halfSolid">Полупрозрачный</string>
+    <string name="opaque">Прозрачный</string>
+    <string name="rbAny">Любой</string>
+    <string name="rbLower">Только Lower</string>
+    <string name="rbUpper">Только Upper</string>
+    <string name="search">Поиск:</string>
+    <string name="searchString">Поиск буквы/буквосочетания:</string>
+    <string name="solid">Непрозрачный</string>
+    <string name="stringCase">Регистр:</string>
+    <string name="stringResult">Результат:</string>
+    <string name="textParameters">Параметры текста:</string>
+    <!-- From: file:/C:/Users/Lungo/AndroidStudioProjects/VacationTask2Project/VacationTask2/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
